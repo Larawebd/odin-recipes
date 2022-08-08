@@ -1,0 +1,52 @@
+#recipe {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+#waffle {
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content,
+.content-two {
+    font-size: 16px;
+    text-align: center;
+}
+.first {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    background-color: lightsalmon;
+    text-decoration: underline;
+}
+
+div {
+    text-align: center;
+
+}
+
+ul,
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
