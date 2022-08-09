@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: brown;
+    text-decoration: overline;
+}
+img {
+    width: 350px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2,
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    background-color: lightgray;
+}
+#content {
+    text-align: center;
+    color: brown;
+    font-weight: bold
+}
+div {
+    text-align: center;
+}
+
+ul,
+ol {
+    text-align: left;
+    display: inline-block;
+}
+
+p {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color: brown;
+}
